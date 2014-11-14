@@ -1,0 +1,5 @@
+C:\Users\282156\Desktop\Jenkins\svn\trunk\src\Demo\bin\Debug\Demo.exe
+C:\Users\282156\Desktop\Jenkins\svn\trunk\src\Demo\bin\Debug\Demo.pdb
+C:\Users\282156\Desktop\Jenkins\svn\trunk\src\Demo\obj\x86\Debug\Demo.exe
+C:\Users\282156\Desktop\Jenkins\svn\trunk\src\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\282156\Desktop\Jenkins\svn\trunk\src\Demo\bin\Debug\Demo.exe.config

@@ -1,0 +1,9 @@
+C:\Users\282156\Desktop\Jenkins\svn\trunk\src\DemoTests\bin\Debug\DemoTests.dll
+C:\Users\282156\Desktop\Jenkins\svn\trunk\src\DemoTests\bin\Debug\DemoTests.pdb
+C:\Users\282156\Desktop\Jenkins\svn\trunk\src\DemoTests\bin\Debug\Demo.exe
+C:\Users\282156\Desktop\Jenkins\svn\trunk\src\DemoTests\bin\Debug\nunit.framework.dll
+C:\Users\282156\Desktop\Jenkins\svn\trunk\src\DemoTests\bin\Debug\Demo.pdb
+C:\Users\282156\Desktop\Jenkins\svn\trunk\src\DemoTests\bin\Debug\nunit.framework.xml
+C:\Users\282156\Desktop\Jenkins\svn\trunk\src\DemoTests\obj\Debug\DemoTests.csprojResolveAssemblyReference.cache
+C:\Users\282156\Desktop\Jenkins\svn\trunk\src\DemoTests\obj\Debug\DemoTests.dll
+C:\Users\282156\Desktop\Jenkins\svn\trunk\src\DemoTests\obj\Debug\DemoTests.pdb

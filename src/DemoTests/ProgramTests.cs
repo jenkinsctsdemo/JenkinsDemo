@@ -19,6 +19,15 @@ namespace DemoTests
     }
 
     [Test]
+    public void AddMultiply()
+    {
+        var a = 2;
+        var b = 4;
+        var c = 2;
+        Assert.AreEqual(16,Program.Multiply(b, Program.Add(a, c)));
+    }
+
+    [Test]
     public void Multiply()
     {
         Assert.AreEqual(100, Program.Multiply(10, 10));
